@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+backend/node_modules/
+
+# Environment files
+.env
+.env.*
+backend/.env
+
+# Logs and temporary files
+*.log
+backend/*.log
+
+# IDE & Editor settings
+.vscode/
+.idea/
+.DS_Store
